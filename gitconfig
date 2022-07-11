@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = workwithfabi@gmail.com
+	name = Fabian Schmidt
